@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "844832848247",
+    "project_id": "smart-lock-box-b7ee3",
+    "storage_bucket": "smart-lock-box-b7ee3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:844832848247:android:81466a0d77d973c55c0972",
+        "android_client_info": {
+          "package_name": "com.example.colleage_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "844832848247-b3j8gu8k0bk4kqp72foj7d4ifbupr1t8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSIhyR6R7kqcELrAlyijn63i7ehUH2rUU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "844832848247-b3j8gu8k0bk4kqp72foj7d4ifbupr1t8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
